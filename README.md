@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan100000&label=Profile%20views&color=0e75b6&style=flat" alt="rohan100000" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohan100000" alt="rohan100000" /></a> </p>
-
 - 🔭 I’m currently working on **Web Development and App Development projects.**
 
 - 🌱 I’m currently learning **Backend technologies**
